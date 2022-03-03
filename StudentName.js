@@ -179,7 +179,6 @@ arrayJoiner(wordArrayA, wordArrayB);
 //---------------------------------------------------------------7
 /*Dado un arreglo de strings indicar qué posiciones del arreglo
 son anagramas de una palabra base (recibida como parámetro), retorne las posiciones en un arreglo.*/
-
 let testWordToExplore = "amar";
 let wordsToVerify = ["amar", "arma", "rana" , "mara", "rama", "roma", "amor", "ramon", "omar"];
 
@@ -195,8 +194,7 @@ function anagramVerifier(wordToExplore, listOfWords) {
 
   })
 }
-console.log(anagramVerifier(textWordToExplore))
-
+console.log(anagramVerifier(testWordToExplore,wordsToVerify))
 
 //---------------------------------------------------------------8
 
