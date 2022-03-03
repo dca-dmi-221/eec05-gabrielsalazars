@@ -1,3 +1,5 @@
+//made by Gabriel Salazar Sierra A00372528
+
 //----------------------------------------------------------------1
 /*Dada una cadena de texto (string) separe y muestre en consola los caracteres de forma desordenada uno por línea, 1 caracter a la vez.*/
 let testWord = "esternocleidomastoideo";
